@@ -117,6 +117,7 @@ install.packages(c(
   "janitor"
 ))
 ```
+---
 
 ### Final Conditional Inference Tree
 
